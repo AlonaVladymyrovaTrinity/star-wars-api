@@ -1,8 +1,8 @@
 # **Star Wars API Project**
 
-##**Introduction**
+## **Introduction**
 
-##**Project description**
+## **Project description**
 
 This is a basic webpage displaying items like lists of people, planets, films, species, vehicles, and starships from the [Star Wars API](https://swapi.dev/api/) (https://swapi.dev/). 
 
