@@ -45,7 +45,7 @@ To open the project follow these steps:
 * Navigate to the project directory cd star-wars-api
 * Disable CORS protection in a Web browser. For example: 
 ```
-open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_test" —disable-web-security
+open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
 ```
 * Open the index.html file of the project in a Chrome Web browser without CORS protection enabled.
 
