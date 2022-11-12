@@ -39,6 +39,7 @@ You can see it live at: [https://hu00xv.csb.app/](https://hu00xv.csb.app/)
 
 ## **Installation**
 **Does not require installation.**
+
 To open the project follow these steps: 
 * Clone the project
 * Navigate to the project directory cd star-wars-api
