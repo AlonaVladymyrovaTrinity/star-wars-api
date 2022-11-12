@@ -1,14 +1,12 @@
 # **Star Wars API Project**
 
-**Introduction**
+##**Introduction**
 
-**Project description**
+##**Project description**
 
 This is a basic webpage displaying items like lists of people, planets, films, species, vehicles, and starships from the [Star Wars API](https://swapi.dev/api/) (https://swapi.dev/). 
 
 In this project, you could find:
-
-
 
 * created HTML for the page
 * styled elements on the page using CSS
@@ -17,28 +15,13 @@ In this project, you could find:
 
 You can see it live at: [https://hu00xv.csb.app/](https://hu00xv.csb.app/)
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/image2.png "image_tooltip")
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image3.png "image_tooltip")
 
-
 ### **Features**
-
 
 * Main Page
 * Horizontal Top Main menu
@@ -52,13 +35,10 @@ You can see it live at: [https://hu00xv.csb.app/](https://hu00xv.csb.app/)
 * Pretty well-designed GUI
 * Included a simple set of styling 
 
-
 ## **Installation**
 
+**Run**
 
-## Run
-
-
-## Locally
+**Locally**
 
 To start the app locally, run:
