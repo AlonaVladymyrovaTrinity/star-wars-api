@@ -42,11 +42,11 @@ You can see it live at: [https://hu00xv.csb.app/](https://hu00xv.csb.app/)
 
 To open the project follow these steps: 
 * Clone the project
-* Disable CORS protection in a Web browser. For example: 
+* Disable CORS protection in a Web browser. For example, to disable CORS for the Chrome Web browser on macOS use this command:
 ```
 open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
 ```
-* Open project directory
+* Open the project directory
 * Open the index.html file of the project in a Chrome Web browser without CORS protection enabled.
 
-You could open this project in another browser, but make sure that you disable CORS first
+You could open this project in a different OS and in another browser, but make sure that you disable CORS first
