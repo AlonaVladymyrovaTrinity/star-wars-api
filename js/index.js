@@ -1,4 +1,4 @@
-import { getResponse, api_url, getCapitalized } from "/js/functions.js";
+import { getResponse, api_url, getCapitalized } from "./../js/functions.js";
 
 let url_search = window.location.search;
 let urlParams = new URLSearchParams(url_search);
